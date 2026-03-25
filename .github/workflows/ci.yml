@@ -25,4 +25,4 @@ jobs:
         run: pytest test_app.py -v
 
       - name: Build Docker image
-        run: docker build -t flask-app
+        run: docker build -t flask-app .
