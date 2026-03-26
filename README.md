@@ -48,4 +48,3 @@ flask-github-actions/
 ## Live URL
 ```
 http://44.204.180.11:5000
-```
