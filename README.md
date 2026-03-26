@@ -1,6 +1,3 @@
-Amazing! 🎉 Let's write the README:
-
-```markdown
 # Flask API with GitHub Actions CI/CD on AWS EC2
 
 A Flask REST API automatically tested and deployed to AWS EC2 using GitHub Actions CI/CD pipeline.
@@ -29,8 +26,8 @@ flask-github-actions/
 ├── requirements.txt    # dependencies
 ├── Dockerfile          # container config
 └── .github/
-└── workflows/
-└── ci.yml      # GitHub Actions pipeline
+    └── workflows/
+        └── ci.yml      # GitHub Actions pipeline
 ```
 
 ## API Endpoints
@@ -48,3 +45,4 @@ flask-github-actions/
 ## Live URL
 ```
 http://44.204.180.11:5000
+```
